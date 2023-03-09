@@ -34,8 +34,6 @@
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics">View Demo</a>
-    ·
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics/issues">Report Bug</a>
     ·
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics/issues">Request Feature</a>
