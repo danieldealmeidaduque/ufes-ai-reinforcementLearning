@@ -1,7 +1,7 @@
 <h3 align="center"> Analysis of Reinforcement Learning methods in the Google Dinosaur game </h3>
 
   <p align="center">
-    Work for Artificial Intelligence classes from Federal University of Espirito Santo
+    Work for Artificial Intelligence classes from Federal University of Espirito Santo (UFES)
     <br />
     using Reinforcement learning
     <br />
@@ -19,9 +19,12 @@
 ## About The Project
 
 <p align="justify">
-    The article aims to analyze the reinforcement learning method using a meta-heuristic and a classifier to play the Google Dinosaur game and achieve the maximum possible points. Genetic Algorithm was chosen as the meta-heuristic and Neural Network as the classifier for the reinforcement learning method. After learning, a comparison of results was made using statistical tests: paired t-test and non-parametric Wilcoxon test, between the method developed in this article and the method developed by the Artificial Intelligence course professor, Flávio Miguel Varejão.
+  In my project, I seek to explore the effectiveness of using a combination of reinforcement learning methods, specifically a meta-heuristic and a classifier, to maximize the score in the Google Dinosaur game. To accomplish this, I have chosen to utilize the Genetic Algorithm as the meta-heuristic and the Neural Network as the classifier for the reinforcement learning method.
 </p>
 
+<p align="justify">
+  Once the algorithm has learned how to play the game, I will compare its results to those of the method developed by the Artificial Intelligence course professor, Flávio Miguel Varejão. To carry out this comparison, I will use two statistical tests, the paired t-test and non-parametric Wilcoxon test, to determine whether any significant differences exist between the two methods. My goal is to demonstrate the effectiveness of my approach in achieving the maximum possible points in the game.
+</p>
 
 <!-- CONTACT -->
 ## Contact
