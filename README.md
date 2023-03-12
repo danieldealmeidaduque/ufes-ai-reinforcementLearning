@@ -1,4 +1,4 @@
-<h3 align="center"> Analysis of reinforcement learning methods in the Google Dinosaur game </h3>
+<h3 align="center"> Analysis of Reinforcement Learning methods in the Google Dinosaur game </h3>
 
   <p align="center">
     Work for Artificial Intelligence classes from Federal University of Espirito Santo
