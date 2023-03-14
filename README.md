@@ -5,13 +5,13 @@
     <br />
     using Reinforcement learning
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-reinforcementlearning"<strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-reinforcementLearning"<strong>Explore the docs »</strong></a>
     <br />
     07/22 - 07/22
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-reinforcementlearning">Report Bug</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-reinforcementLearning">Report Bug</a>
     ·
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-reinforcementlearning">Request Feature</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-reinforcementLearning">Request Feature</a>
   </p>
 </div>
 
